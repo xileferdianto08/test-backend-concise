@@ -1,0 +1,1 @@
+DB_URI=postgres://YourUserName:YourPassword@YourHostname:5432/YourDatabaseName
